@@ -1,0 +1,10 @@
+{
+    "development" : {
+        "username": "root",
+        "password": "zkfmffh0125!",
+        "database": "CladQuote",
+        "host": "202.30.30.63",
+        "port": "3306",
+        "dialect": "mysql"
+    }
+}
